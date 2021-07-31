@@ -1,2 +1,2 @@
 # Kaggle_Competetions
-https://www.kaggle.com/zuzudse/house-price-prediction-bng
+https://www.kaggle.com/zuzudse/House Price Prediction_Kaggle
